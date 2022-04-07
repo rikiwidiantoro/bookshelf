@@ -1,5 +1,7 @@
 # bookshelf
-tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula - dicoding
+tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula - Dicoding
+
+beasiswa Indosat Ooredo 2021
 
 dibuat dengan :
 1. bahasa markup HTML dan CSS
