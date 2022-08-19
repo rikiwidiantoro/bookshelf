@@ -1,7 +1,7 @@
 # bookshelf
-tugas akhir kelas Belajar Membuat Front-End Web untuk Pemula - Dicoding
+Tugas Akhir kelas Belajar Membuat Front-End Web untuk Pemula - Dicoding
 
-beasiswa Indosat Ooredo 2021
+Beasiswa Indosat Ooredo - IDCamp 2021
 
 aplikasi bookshelf adalah gabungan dari perpustakaan dan todo list, jadi aplikasi ini men-list buku yang akan atau belum dibaca ke bagian tersendiri dengan buku yang sudah dibaca. Dan juga ada fitur hapus list buku dan memindahkan ke bagian atau rak belum dibaca atau sudah dibaca.
 
